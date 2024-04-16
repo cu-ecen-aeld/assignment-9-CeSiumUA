@@ -1,5 +1,4 @@
-
 config BR2_PACKAGE_LDD
 	bool "ldd"
 	help
-	  Includes the scull driver and a faulty driver
+	  Build and install scull driver and misc-modules driver
